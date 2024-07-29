@@ -6,7 +6,7 @@ This project involves analyzing airline data using SQL and visualizing key metri
 
 ## Project Files
 
-- **[Airline_project_queries.sql](./path/to/Airline_project_queries.sql)**: Contains SQL queries used to extract, filter, and manipulate data from the airline database.
+- **[Airline_project_queries.sql](https://github.com/koushik-yarra/Airline_Analysis/tree/master/Airline_Project/SQL_queries)**: Contains SQL queries used to extract, filter, and manipulate data from the airline database.
 - **[Airline_analysis_Dashboard.pbix](./path/to/Airline_analysis_Dashboard.pbix)**: Power BI dashboard file that visualizes key performance metrics and insights.
 
 ## Key Features
